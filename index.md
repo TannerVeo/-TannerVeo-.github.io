@@ -6,7 +6,7 @@
 
 # I enjoy outreach activities with other students, as I believe it helps my community, helps them achieve higher grades, and increases their overall happiness with their college experience. I also hope the good medicine in the community will be taken back to our reservations after they graduate.
 
-###Mr AIHEC Picture(/img/DSC01598(6).jpg) 
+###Mr AIHEC Picture(<TannerVeo>.github.io/img/DSC01598(6).jpg) 
 
 ###Voted in as Student President in 2023-2024 (img/344944133_955702415573963_157655713566388233_n.jpg)
 
