@@ -11,7 +11,7 @@
 
 <img 
   src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/344944133_955702415573963_157655713566388233_n.jpg" 
-  alt="Voted in as Student President 2023-2024 
+  alt="Voted in as Student President 2023-2024"
   width="55%">
 <img 
   src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/338600170_1008077376824354_2063337857805321150_n.jpg" 
