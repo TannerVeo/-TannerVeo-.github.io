@@ -2,7 +2,8 @@
 
 #### Hau! my name is Tanner Veo. I am an enrolled member of Cheyenne River Sioux Tribe, but grew up on Pine Ridge Indian Reservation, Crow Creek Indian Reservation, and St. Joseph's Indian School. All of them are located in South Dakota. I am half Lakota and half Dakota (Oceti Šakowiŋ). My lived experiences have taught me the importance of human life and helping others, with a good heart and good intentions. I have an Associate in Environmental Science and Research and am I working towards my Bachelors of Science at United Tribes Technical College.
 
-###(-TannerVeo-.github.io/img/FB_IMG_1673497576189.jpg)
+###![Mr AIHEC Award Winner](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/DSC01598%20(6).jpg)
+
 
 #### I enjoy outreach activities with other students, as I believe it helps my community, helps them achieve higher grades, and increases their overall happiness with their college experience. I also hope the good medicine in the community will be taken back to our reservations after they graduate.
 
