@@ -11,7 +11,8 @@ Mr AIHEC Award Winner in 2024-2025
 Voted in as Student President 2023-2024
 
 ![Research](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/338600170_1008077376824354_2063337857805321150_n.jpg)
-Presenting my research
+
+Presenting my research in 2023
 
 ### I am excited to learn coding, website building, to incorporate into my skillset for grad school.
 
