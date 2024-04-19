@@ -10,17 +10,13 @@
 #### I enjoy outreach activities with other students, as I believe it helps my community, helps them achieve higher grades, and increases their overall happiness with their college experience. I also hope the good medicine in the community will be taken back to our reservations after they graduate.
 
 <img 
-  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/DSC01598%20(6).jpg](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/344944133_955702415573963_157655713566388233_n.jpg" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/344944133_955702415573963_157655713566388233_n.jpg" 
   alt="Voted in as Student President 2023-2024 
   width="55%">
-![StudentPresident](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/344944133_955702415573963_157655713566388233_n.jpg)
-
-
 <img 
-  src="[https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/DSC01598%20(6).jpg](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/338600170_1008077376824354_2063337857805321150_n.jpg)" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/338600170_1008077376824354_2063337857805321150_n.jpg" 
   alt="Presenting my research in 2023" 
   width="55%">
-![Research](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/338600170_1008077376824354_2063337857805321150_n.jpg)
 
 ### I am excited to learn coding, website building, to incorporate into my skillset for grad school.
 
