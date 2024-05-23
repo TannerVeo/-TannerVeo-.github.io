@@ -7,7 +7,7 @@
 
 
 <img 
-  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/DSC01598%20(6).jpg" 
+  src="[https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/img/DSC01598%20(6).jpg](https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/DSC01598%20(6).jpg?raw=true)" 
   alt="Mr AIHEC Award Winner in 2024-2025" 
   width="55%">
 ##### Mr AIHEC Award Winner in 2024-2025
