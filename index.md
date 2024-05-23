@@ -8,7 +8,7 @@
 
 
 <img 
-  src="(https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/DSC01598%20(6).jpg?raw=true)" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/DSC01598%20(6).jpg?raw=true" 
   alt="Mr AIHEC Award Winner in 2024-2025" 
   width="55%">
 ##### Mr AIHEC Award Winner in 2024-2025
@@ -16,13 +16,13 @@
 #### I enjoy outreach activities with other students, as I believe it helps my community, helps them achieve higher grades, and increases their overall happiness with their college experience. I also hope the good medicine in the community will be taken back to our reservations after they graduate.
 
 <img 
-  src="(https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/344944133_955702415573963_157655713566388233_n.jpg?raw=true)" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/344944133_955702415573963_157655713566388233_n.jpg?raw=true" 
   alt="Voted in as Student President 2023-2024"
   width="55%">
 ##### Voted in as Student President 2023-2024
   
 <img 
-  src="(https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/338600170_1008077376824354_2063337857805321150_n.jpg?raw=true)" 
+  src="https://github.com/TannerVeo/-TannerVeo-.github.io/blob/main/338600170_1008077376824354_2063337857805321150_n.jpg?raw=true" 
   alt="Presenting my research in 2023" 
   width="55%">
 ##### Presenting my research in 2023
